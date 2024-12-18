@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Hugo Theme Stack Starter</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://demo.stack.jimmycai.com/posts/</link>
         <description>Recent content in Posts on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 18 Dec 2024 16:21:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 18 Dec 2024 16:21:42 +0800</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>First</title>
-        <link>http://localhost:1313/posts/first/</link>
+        <link>https://demo.stack.jimmycai.com/posts/first/</link>
         <pubDate>Wed, 18 Dec 2024 16:21:42 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/first/</guid>
+        <guid>https://demo.stack.jimmycai.com/posts/first/</guid>
         <description>&lt;h1 id=&#34;hello-hugo&#34;&gt;hello hugo
 &lt;/h1&gt;</description>
         </item>
