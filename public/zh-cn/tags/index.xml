@@ -2,48 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on </title>
-        <link>http://localhost:50065/zh-cn/tags/</link>
+        <link>http://localhost:1313/zh-cn/tags/</link>
         <description>Recent content in Tags on </description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50065/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Css</title>
-        <link>http://localhost:50065/zh-cn/tags/css/</link>
-        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        <lastBuildDate>Thu, 19 Dec 2024 09:51:47 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Privacy</title>
+        <link>http://localhost:1313/zh-cn/tags/privacy/</link>
+        <pubDate>Thu, 19 Dec 2024 09:51:47 +0800</pubDate>
         
-        <guid>http://localhost:50065/zh-cn/tags/css/</guid>
+        <guid>http://localhost:1313/zh-cn/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
-        <title>Html</title>
-        <link>http://localhost:50065/zh-cn/tags/html/</link>
-        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        <title>Test</title>
+        <link>http://localhost:1313/zh-cn/tags/test/</link>
+        <pubDate>Thu, 19 Dec 2024 09:51:47 +0800</pubDate>
         
-        <guid>http://localhost:50065/zh-cn/tags/html/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Markdown</title>
-        <link>http://localhost:50065/zh-cn/tags/markdown/</link>
-        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:50065/zh-cn/tags/markdown/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>http://localhost:50065/zh-cn/tags/themes/</link>
-        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:50065/zh-cn/tags/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Example Tag</title>
-        <link>http://localhost:50065/zh-cn/tags/example-tag/</link>
-        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:50065/zh-cn/tags/example-tag/</guid>
+        <guid>http://localhost:1313/zh-cn/tags/test/</guid>
         <description></description>
         </item>
         
